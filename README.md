@@ -1,0 +1,1 @@
+Simple Rust library meant as a helper for the pixels crate.
